@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.info-table {
+  border: 1px solid black;
+  border-spacing: 0;
+}
+
+.header-row td,
+.details-row td,
+.empty-row td {
+  border: 1px solid black;
+}
